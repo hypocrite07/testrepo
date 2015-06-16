@@ -2,3 +2,4 @@ MASTER file.
 Modify.
 Twice.
 sss
+Slave note.
